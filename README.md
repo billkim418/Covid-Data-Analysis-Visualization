@@ -1,4 +1,4 @@
-# K-Digital Traing 코로나 데잍 시각화 AI 경진대회
+# K-Digital Traing 코로나 데이터 시각화 AI 경진대회
 
 일정 : 0121.04.02 ~ 2021.04.09
 
